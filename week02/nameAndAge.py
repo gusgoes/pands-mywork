@@ -1,0 +1,10 @@
+name=input('Enter your name: ')
+age=int(input('Enter your age: '))
+#print(f'Hello {name}, your age is {age}')
+print(f'Hello {name},\tyour age is {age}')
+print(21-4)
+print(3==2)
+#a=int(21)
+#b=int(4)
+#result = a-b
+#print(f'{a}-{b}={result}')
