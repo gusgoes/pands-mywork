@@ -10,4 +10,4 @@ if os.path.exists(FILENAME):
 else:
     print(FILENAME,"File does not exist")
 
-os.remove("data2.txt") #removes the file data2.txt
+os.remove("test.txt") #removes the file data2.txt
