@@ -1,7 +1,7 @@
 # Messing with files
 #Author: Gustavo Fernandes
 
-FILENAME = "data.txt"
+FILENAME = "text.txt"
 
 '''with open(FILENAME, 'r') as f:
     data = f.read()
